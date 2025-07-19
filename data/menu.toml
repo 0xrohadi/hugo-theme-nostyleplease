@@ -1,16 +1,11 @@
 [[entries]]
-title = "info"
+title = "Info"
 
   [[entries.entries]]
-  title = "a (nearly) no-CSS, fast, minimalist Hugo theme ported from <a href='https://github.com/riggraz/no-style-please'>riggraz/no-style-please</a>."
-
-  [[entries.entries]]
-  title = "github repo"
-  url = "https://github.com/hanwenguo/hugo-theme-nostyleplease"
-
+  title = "X: <a href='https://x.com/0xrohadi'>@0xrohadi</a>"
 
 [[entries]]
-title = "all posts"
+title = "Recent Posts"
 
   [entries.post_list]
   limit = 5
@@ -19,33 +14,7 @@ title = "all posts"
   show_more_url = "posts"
 
 [[entries]]
-title = "posts by category"
-
-  [entries.post_list]
-  section = "posts"
-  show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
-
-[[entries]]
-title = "rss"
-url = "index.xml"
-
-[[entries]]
-title = "another list"
+title = "This Site"
 
   [[entries.entries]]
-  title = "with subitems"
-
-    [[entries.entries.entries]]
-    title = "with subsubitems"
-
-    [[entries.entries.entries]]
-    title = "example page"
-    url = "about"
-
-[[entries]]
-title = "PRO TIP"
-entries = [
-   { title = "to edit this menu, edit data/menu.toml file" }
-  ]
+  title = "Hosted on <a href='https://pages.cloudflare.com'>Cloudflare Pages</a>"
