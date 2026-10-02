@@ -12,9 +12,3 @@ title = "Recent Posts"
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
-
-[[entries]]
-title = "This Site"
-
-  [[entries.entries]]
-  title = "Hosted on <a href='https://pages.cloudflare.com'>Cloudflare Pages</a>"
